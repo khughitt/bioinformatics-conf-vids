@@ -1,0 +1,13 @@
+# List of conferences with video talks online
+
+Just some links to conferences which post video versions of talks online.
+Feel free to add other meetings with interesting talks that I missed.
+
+## Computational Biology
+
+- **2015** [ISCB/ECCB 2015](https://www.iscb.org/ismb-mm/media-ismbeccb2015)
+
+## R/Python
+
+- **2015** [SciPy 2015](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu)
+- **2015** [useR! 2015](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016)
