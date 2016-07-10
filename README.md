@@ -11,3 +11,8 @@ Feel free to add other meetings with interesting talks that I missed.
 
 - **2015** [SciPy 2015](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu)
 - **2015** [useR! 2015](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016)
+
+## Youtube channels of interest
+
+- [The Cold Spring Harbor Leading Strand](https://www.youtube.com/user/LeadingStrand)
+- [Google Developer Channel](https://www.youtube.com/user/GoogleDevelopers)
