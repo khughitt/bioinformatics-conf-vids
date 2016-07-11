@@ -5,6 +5,7 @@ Feel free to add other meetings with interesting talks that I missed.
 
 ## Computational Biology
 
+- **2016** [BOSC 2016](http://f1000research.com/channels/BOSC) *videos should posted up soon.
 - **2015** [ISCB/ECCB 2015](https://www.iscb.org/ismb-mm/media-ismbeccb2015)
 
 ## R/Python
