@@ -10,6 +10,7 @@ Feel free to add other meetings with interesting talks that I missed.
 
 ## R/Python
 
+- **2016** [PyDataSF 2016](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
 - **2016** [useR! 2016](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016)
 - **2015** [SciPy 2015](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu)
 - [RStudio webinar series](https://www.rstudio.com/resources/webinars/)
