@@ -12,7 +12,7 @@ Feel free to add other meetings with interesting talks that I missed.
 
 ### European Bioconductor Meeting (EuroBioC)
 
-[EuroBioC 2017](https://bioconductor.github.io/EuroBioc2017/)
+- [EuroBioC 2017](https://bioconductor.github.io/EuroBioc2017/
 
 ### Intelligent Systems for Molecular Biology (ISMB)
 
@@ -44,6 +44,10 @@ Feel free to add other meetings with interesting talks that I missed.
 
 - **2016** [useR! 2016](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016)
 
+### ROpenSci
+
+- [ROpenSci - Vimeo Channel](https://vimeo.com/ropensci)
+
 ### RStudio
 
 - [RStudio webinar series](https://www.rstudio.com/resources/webinars/)
@@ -61,8 +65,22 @@ Feel free to add other meetings with interesting talks that I missed.
 
 ### PyData
 
+#### EuroPython
+
+- [EuroPython 2018](https://www.youtube.com/watch?v=LoRq9yGeBWY&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5)
+- [EuroPython 2017](https://www.youtube.com/watch?v=OCHrzW-R3QI&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh)
+- [EuroPython 2016](https://www.youtube.com/watch?v=ttNzc_dBJ60&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm)
+- [EuroPython 2015](https://www.youtube.com/watch?v=bp3mCgrdMxU&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP)
+- [EuroPython 2014](https://www.youtube.com/watch?v=8xHd3JkhWd4&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz)
+- [EuroPython 2013](https://www.youtube.com/watch?v=4jjcN9lQAxI&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE)
+- [EuroPython 2012](https://www.youtube.com/watch?v=uFqK7ACo-2U&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K)o
+- [EuroPython 2011](https://www.youtube.com/watch?v=eu_vAisNHVA&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH)
+
+### Other
+
+- [JupyterCon 2018](https://www.youtube.com/watch?v=Ql2f1eF52P8&list=PL055Epbe6d5b572IRmYAHkUgcq3y6K3Ae)
 - [PyDataSF 2016](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
-- [PyData](https://www.youtube.com/user/PyDataTV)
+- [PyData Youtube Channel](https://www.youtube.com/user/PyDataTV)
 
 ### SciPy
 
