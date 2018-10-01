@@ -73,7 +73,7 @@ Feel free to add other meetings with interesting talks that I missed.
 - [EuroPython 2015](https://www.youtube.com/watch?v=bp3mCgrdMxU&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP)
 - [EuroPython 2014](https://www.youtube.com/watch?v=8xHd3JkhWd4&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz)
 - [EuroPython 2013](https://www.youtube.com/watch?v=4jjcN9lQAxI&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE)
-- [EuroPython 2012](https://www.youtube.com/watch?v=uFqK7ACo-2U&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K)o
+- [EuroPython 2012](https://www.youtube.com/watch?v=uFqK7ACo-2U&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K)
 - [EuroPython 2011](https://www.youtube.com/watch?v=eu_vAisNHVA&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH)
 
 ### Other
