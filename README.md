@@ -12,7 +12,7 @@ Feel free to add other meetings with interesting talks that I missed.
 
 ### European Bioconductor Meeting (EuroBioC)
 
-- [EuroBioC 2017](https://bioconductor.github.io/EuroBioc2017/
+- [EuroBioC 2017](https://bioconductor.github.io/EuroBioc2017/)
 
 ### Intelligent Systems for Molecular Biology (ISMB)
 
@@ -42,7 +42,7 @@ Feel free to add other meetings with interesting talks that I missed.
 
 ### useR!
 
-- **2016** [useR! 2016](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016)
+- [useR! 2016](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016)
 
 ### ROpenSci
 
