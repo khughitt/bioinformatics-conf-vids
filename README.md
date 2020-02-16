@@ -7,6 +7,8 @@ Feel free to add other meetings with interesting talks that I missed.
 
 ### Bioinformatics Open Source Conference (BOSC)
 
+- [BOSC 2019](https://www.youtube.com/playlist?list=PLmX8XnLr6zeHofbRXbVg0vShC5RwuElj4)
+- [BOSC 2018](https://www.youtube.com/playlist?list=PLir-OOQiOhXaHvCY_KYshsOMULuXDqvh7)
 - [BOSC 2017](https://www.open-bio.org/wiki/BOSC_2017_Schedule)
 - [BOSC 2016](https://www.open-bio.org/wiki/BOSC_2016_Schedule)
 
@@ -31,6 +33,14 @@ Feel free to add other meetings with interesting talks that I missed.
 
 - [NHGRI Current Topics in Genome Analysis (2016)](https://www.youtube.com/watch?v=SAweFv8I8ow&list=PL1ay9ko4A8skYqjhrA4INDZ7IHtebS0lY)
 - [NHGRI - all video playlists](https://www.youtube.com/user/GenomeTV/playlists)
+
+## Machine Learning
+
+### Knowledge Discovery and Data Mining (KDD)
+
+- [KDD 2019](https://www.youtube.com/playlist?list=PLhzEeQSx1uAFVhR8m631pY5TNiP1hkZCn)
+- [KDD 2018](https://www.youtube.com/channel/UCSBrGGR7JOiSyzl60OGdKYQ)
+- [KDD 2017](https://www.youtube.com/channel/UC_sfvZvvPUbOQhDs_cqlx_A)
 
 ## Open Science
 
