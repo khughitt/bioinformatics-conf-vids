@@ -16,8 +16,15 @@ Feel free to add other meetings with interesting talks that I missed.
 
 - [EuroBioC 2017](https://bioconductor.github.io/EuroBioc2017/)
 
+### Great Lakes Bioinformatics Conferences (GLBIO)
+
+- [GLBIO 2019](https://www.youtube.com/playlist?list=PLmX8XnLr6zeEkssV-RvLH-9x0qV2GaZ_F)
+- [GLBIO 2016](https://www.youtube.com/playlist?list=PLmX8XnLr6zeGrJQ-jVLflkc2gHZKqw7Y5)
+
 ### Intelligent Systems for Molecular Biology (ISMB)
 
+- [ISCB/ICCB 2019](https://www.youtube.com/channel/UCN9kqT7pfOzZddPJHqWSuyA/playlists?view=50&sort=dd&shelf_id=4)
+- [ISCB/ECCB 2017](https://www.iscb.org/ismb-mm/media-ismb2017)
 - [ISCB/ECCB 2016](https://www.iscb.org/ismb-mm/media-ismb2016)
 - [ISCB/ECCB 2014](https://www.iscb.org/ismb-mm/media-ismb2014)
 - [ISCB/ECCB 2012](https://www.iscb.org/ismb-mm/media-ismb2012)
@@ -33,6 +40,11 @@ Feel free to add other meetings with interesting talks that I missed.
 
 - [NHGRI Current Topics in Genome Analysis (2016)](https://www.youtube.com/watch?v=SAweFv8I8ow&list=PL1ay9ko4A8skYqjhrA4INDZ7IHtebS0lY)
 - [NHGRI - all video playlists](https://www.youtube.com/user/GenomeTV/playlists)
+
+### RECOMB/RSG
+
+- [RECOMB RSG 2018](https://www.youtube.com/playlist?list=PLmX8XnLr6zeHQHVQMgJf4Hz74Y3U4aL3V)
+- [RECOMB RSG 2019](https://www.youtube.com/playlist?list=PLmX8XnLr6zeGKlSq1Xi1-mpjv128QD8aQ)
 
 ## Machine Learning
 
