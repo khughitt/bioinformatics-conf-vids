@@ -64,6 +64,7 @@ Feel free to add other meetings with interesting talks that I missed.
 
 ### useR!
 
+- [useR! 2020](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)
 - [useR! 2016](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016)
 
 ### ROpenSci
