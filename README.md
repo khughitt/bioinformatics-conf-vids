@@ -1,9 +1,11 @@
-# List of conferences with video talks online
+List of conferences with video talks online
+===========================================
 
 Just some links to conferences which post video versions of talks online.
 Feel free to add other meetings with interesting talks that I missed.
 
-## Bioinformatics & Computational Biology
+Bioinformatics & Computational Biology
+--------------------------------------
 
 ### Bioinformatics Open Source Conference (BOSC)
 
@@ -46,7 +48,8 @@ Feel free to add other meetings with interesting talks that I missed.
 - [RECOMB RSG 2018](https://www.youtube.com/playlist?list=PLmX8XnLr6zeHQHVQMgJf4Hz74Y3U4aL3V)
 - [RECOMB RSG 2019](https://www.youtube.com/playlist?list=PLmX8XnLr6zeGKlSq1Xi1-mpjv128QD8aQ)
 
-## Machine Learning
+Machine Learning
+----------------
 
 ### Knowledge Discovery and Data Mining (KDD)
 
@@ -54,13 +57,20 @@ Feel free to add other meetings with interesting talks that I missed.
 - [KDD 2018](https://www.youtube.com/channel/UCSBrGGR7JOiSyzl60OGdKYQ)
 - [KDD 2017](https://www.youtube.com/channel/UC_sfvZvvPUbOQhDs_cqlx_A)
 
-## Open Science
+Open Science
+------------
 
 ### Open Data Science
 
 - [OSDC](https://www.youtube.com/channel/UCDS20hpBFiv_Kdp5Ibh0vew)
 
-## R
+Julia
+-----
+
+- [JuliaCon 2020](https://www.youtube.com/playlist?list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR)
+
+R
+-
 
 ### useR!
 
@@ -75,7 +85,8 @@ Feel free to add other meetings with interesting talks that I missed.
 
 - [RStudio webinar series](https://www.rstudio.com/resources/webinars/)
 
-## Python
+Python
+------
 
 ### Enthought
 
@@ -109,7 +120,11 @@ Feel free to add other meetings with interesting talks that I missed.
 
 - [SciPy 2015](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu)
 
-## Youtube channels of interest
+Youtube channels of interest
+----------------------------
+
+Other Youtubue channels that aren't necessarily conference-related, but may still
+contain talks of interest.
 
 - [The Cold Spring Harbor Leading Strand](https://www.youtube.com/user/LeadingStrand)
 - [Google Developer Channel](https://www.youtube.com/user/GoogleDevelopers)
