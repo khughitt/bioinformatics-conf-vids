@@ -53,6 +53,7 @@ Machine Learning
 
 ### Knowledge Discovery and Data Mining (KDD)
 
+- [KDD 2020](https://crossminds.ai/category/sigkdd_2020/)
 - [KDD 2019](https://www.youtube.com/playlist?list=PLhzEeQSx1uAFVhR8m631pY5TNiP1hkZCn)
 - [KDD 2018](https://www.youtube.com/channel/UCSBrGGR7JOiSyzl60OGdKYQ)
 - [KDD 2017](https://www.youtube.com/channel/UC_sfvZvvPUbOQhDs_cqlx_A)
