@@ -82,6 +82,10 @@ R
 - [useR! 2020](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)
 - [useR! 2016](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016)
 
+### R/Medicine
+
+- [R/Medicine 2020](https://www.youtube.com/playlist?list=PL4IzsxWztPdljYo7uE5G_R2PtYw3fUReo)
+
 ### ROpenSci
 
 - [ROpenSci - Vimeo Channel](https://vimeo.com/ropensci)
