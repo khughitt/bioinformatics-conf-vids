@@ -9,6 +9,7 @@ Bioinformatics & Computational Biology
 
 ### Bioinformatics Open Source Conference (BOSC)
 
+- [BOSC 2020](https://www.youtube.com/playlist?list=PLir-OOQiOhXZdULoESx9pxMpe8zReZWm0)
 - [BOSC 2019](https://www.youtube.com/playlist?list=PLmX8XnLr6zeHofbRXbVg0vShC5RwuElj4)
 - [BOSC 2018](https://www.youtube.com/playlist?list=PLir-OOQiOhXaHvCY_KYshsOMULuXDqvh7)
 - [BOSC 2017](https://www.open-bio.org/wiki/BOSC_2017_Schedule)
@@ -49,8 +50,12 @@ Bioinformatics & Computational Biology
 
 ### RECOMB/RSG
 
-- [RECOMB RSG 2018](https://www.youtube.com/playlist?list=PLmX8XnLr6zeHQHVQMgJf4Hz74Y3U4aL3V)
 - [RECOMB RSG 2019](https://www.youtube.com/playlist?list=PLmX8XnLr6zeGKlSq1Xi1-mpjv128QD8aQ)
+- [RECOMB RSG 2018](https://www.youtube.com/playlist?list=PLmX8XnLr6zeHQHVQMgJf4Hz74Y3U4aL3V)
+- [RECOMB RSG 2017](https://www.youtube.com/playlist?list=PLmX8XnLr6zeGyFbVGkmZAxv6KlGeZypjU)
+- [RECOMB RSG 2016](https://www.youtube.com/playlist?list=PLmX8XnLr6zeGZjAWsVp9l2YOwYYORirov)
+- [RECOMB RSG 2015](https://www.youtube.com/playlist?list=PLmX8XnLr6zeGVcyVEIoA6iS2PqM2A-9Iu)
+- [RECOMB RSG 2014](https://www.youtube.com/playlist?list=PLmX8XnLr6zeEK9J5xhiqPUmBFG2RvT_bt)
 
 Machine Learning
 ----------------
@@ -103,6 +108,7 @@ Python
 
 ### PyCon
 
+- [PyCon 2019](https://www.youtube.com/c/pycon2019/playlists)
 - [PyCon 2018](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ)
 - [PyCon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
 
@@ -110,6 +116,8 @@ Python
 
 #### EuroPython
 
+- [EuroPython 2020](https://www.youtube.com/playlist?list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW)
+- [EuroPython 2019](https://www.youtube.com/playlist?list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW)
 - [EuroPython 2018](https://www.youtube.com/watch?v=LoRq9yGeBWY&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5)
 - [EuroPython 2017](https://www.youtube.com/watch?v=OCHrzW-R3QI&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh)
 - [EuroPython 2016](https://www.youtube.com/watch?v=ttNzc_dBJ60&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm)
@@ -121,9 +129,11 @@ Python
 
 ### Other
 
+- [TensorFlow World 2019](https://www.youtube.com/playlist?list=PLQY2H8rRoyvxcmHHRftsuiO1GyinVAwUg)
 - [JupyterCon 2018](https://www.youtube.com/watch?v=Ql2f1eF52P8&list=PL055Epbe6d5b572IRmYAHkUgcq3y6K3Ae)
 - [PyDataSF 2016](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
 - [PyData Youtube Channel](https://www.youtube.com/user/PyDataTV)
+- [PyTorch Youtube Channel](https://www.youtube.com/c/PyTorch/playlists)
 
 ### SciPy
 
