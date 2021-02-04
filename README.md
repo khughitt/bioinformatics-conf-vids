@@ -98,6 +98,7 @@ R
 ### RStudio
 
 - [RStudio webinar series](https://www.rstudio.com/resources/webinars/)
+- [rstudio::global 2021](https://rstudio.com/resources/rstudioglobal-2021/)
 
 Python
 ------
@@ -149,4 +150,5 @@ contain talks of interest.
 - [Google Developer Channel](https://www.youtube.com/user/GoogleDevelopers)
 - [Bioinformatics Open Source Conference (BOSC)](https://www.youtube.com/channel/UCNSng3q18VuQ-13RhhKJ5FA)
 - [Bioconductor](https://www.youtube.com/channel/UCqaMSQd_h-2EDGsU6WDiX0Q)
+- [Why R? Foundation](https://www.youtube.com/c/WhyRFoundation)
 
