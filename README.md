@@ -140,6 +140,11 @@ Python
 
 - [SciPy 2015](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu)
 
+Data
+----
+
+- [csvconf](https://www.youtube.com/c/csvconf/playlists)
+
 Youtube channels of interest
 ----------------------------
 
