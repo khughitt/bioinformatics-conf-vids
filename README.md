@@ -109,6 +109,8 @@ Python
 
 ### PyCon
 
+- [PyCon 2021](https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYk1Y5P8kryoyd83L_0Uk5K)
+- [PyCon 2020](https://www.youtube.com/playlist?list=PL2Uw4_HvXqvbpFquYIE57BEAqkQWk-iFg)
 - [PyCon 2019](https://www.youtube.com/c/pycon2019/playlists)
 - [PyCon 2018](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ)
 - [PyCon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
