@@ -43,6 +43,10 @@ Bioinformatics & Computational Biology
 - [ISCB/ECCB 2013](https://www.iscb.org/ismb-mm/media-ismbeccb2013)
 - [ISCB/ECCB 2011](https://www.iscb.org/ismb-mm/media-ismbeccb2011)
 
+### Models, Inference & Algorithms (MIA)
+
+- [Models, Inference & Algorithms (MIA)](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS)
+
 ### National Human Genome Research Institute (NHGRI)
 
 - [NHGRI Current Topics in Genome Analysis (2016)](https://www.youtube.com/watch?v=SAweFv8I8ow&list=PL1ay9ko4A8skYqjhrA4INDZ7IHtebS0lY)
