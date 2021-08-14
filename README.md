@@ -86,8 +86,13 @@ Julia
 R
 -
 
+### Bioconductor
+
+- [Bioconductor 2021](https://www.youtube.com/playlist?list=PLdl4u5ZRDMQRA_Fvfg9Bour_x56irZiA2)
+
 ### useR!
 
+- [useR! 2021](https://www.youtube.com/watch?v=olmKEqBpWpE&list=PL4IzsxWztPdmHhzrXDAOpq4zS_peAVty2)
 - [useR! 2020](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)
 - [useR! 2016](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016)
 
