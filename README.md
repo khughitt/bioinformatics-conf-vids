@@ -156,6 +156,11 @@ Data
 
 - [csvconf](https://www.youtube.com/c/csvconf/playlists)
 
+Other
+-----
+
+- [Collaborations Workshop 2021](https://www.youtube.com/playlist?list=PLpX1jXuNTXGoHfdi8EyIdnS_FmZyxu0Fu)
+
 Youtube channels of interest
 ----------------------------
 
