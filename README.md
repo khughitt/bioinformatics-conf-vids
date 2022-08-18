@@ -9,6 +9,7 @@ Bioinformatics & Computational Biology
 
 ### Bioinformatics Open Source Conference (BOSC)
 
+- [BOSC 2021](https://www.youtube.com/playlist?list=PLir-OOQiOhXZ6jV_cld3Hp-C_0m4aCznk)
 - [BOSC 2020](https://www.youtube.com/playlist?list=PLir-OOQiOhXZdULoESx9pxMpe8zReZWm0)
 - [BOSC 2019](https://www.youtube.com/playlist?list=PLmX8XnLr6zeHofbRXbVg0vShC5RwuElj4)
 - [BOSC 2018](https://www.youtube.com/playlist?list=PLir-OOQiOhXaHvCY_KYshsOMULuXDqvh7)
@@ -17,6 +18,7 @@ Bioinformatics & Computational Biology
 
 ### Bioc
 
+- [Bioc2021](https://www.youtube.com/playlist?list=PLdl4u5ZRDMQRA_Fvfg9Bour_x56irZiA2)
 - [Bioc2020](https://www.youtube.com/playlist?list=PLdl4u5ZRDMQSENJBo6k_wcA27gtydm-bz)
 
 ### European Bioconductor Meeting (EuroBioC)
@@ -81,17 +83,18 @@ Open Science
 Julia
 -----
 
+- [JuliaCon 2022](https://www.youtube.com/playlist?app=desktop&list=PLP8iPy9hna6TRg6qJaBLJ-FRMi9Cp7gSX)
+- [JuliaCon 2021](https://www.youtube.com/playlist?list=PLP8iPy9hna6Q343_8sSq4f306VGLW4TLK)
 - [JuliaCon 2020](https://www.youtube.com/playlist?list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR)
+
+- [SciMLCon 2022](https://www.youtube.com/playlist?list=PLP8iPy9hna6QglWLQM02jcVjEBjaamzvw)
 
 R
 -
 
-### Bioconductor
-
-- [Bioconductor 2021](https://www.youtube.com/playlist?list=PLdl4u5ZRDMQRA_Fvfg9Bour_x56irZiA2)
-
 ### useR!
 
+- [useR! 2022](https://www.youtube.com/playlist?list=PL77T87Q0eoJi2VLI8HHVA08m1d5zfQsWJ)
 - [useR! 2021](https://www.youtube.com/watch?v=olmKEqBpWpE&list=PL4IzsxWztPdmHhzrXDAOpq4zS_peAVty2)
 - [useR! 2020](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)
 - [useR! 2016](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016)
@@ -118,6 +121,7 @@ Python
 
 ### PyCon
 
+- [PyCon 2022](https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl)
 - [PyCon 2021](https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYk1Y5P8kryoyd83L_0Uk5K)
 - [PyCon 2020](https://www.youtube.com/playlist?list=PL2Uw4_HvXqvbpFquYIE57BEAqkQWk-iFg)
 - [PyCon 2019](https://www.youtube.com/c/pycon2019/playlists)
