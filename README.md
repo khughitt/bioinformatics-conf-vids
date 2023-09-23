@@ -9,6 +9,8 @@ Bioinformatics & Computational Biology
 
 ### Bioinformatics Open Source Conference (BOSC)
 
+- [BOSC 2023](https://www.youtube.com/playlist?list=PLir-OOQiOhXZ9xSyP2-6Yd2_8Cl6Q-lLv)
+- [BOSC 2022](https://www.youtube.com/playlist?list=PLir-OOQiOhXYotvWZLnKd9rcNMb6r9tjf)
 - [BOSC 2021](https://www.youtube.com/playlist?list=PLir-OOQiOhXZ6jV_cld3Hp-C_0m4aCznk)
 - [BOSC 2020](https://www.youtube.com/playlist?list=PLir-OOQiOhXZdULoESx9pxMpe8zReZWm0)
 - [BOSC 2019](https://www.youtube.com/playlist?list=PLmX8XnLr6zeHofbRXbVg0vShC5RwuElj4)
@@ -83,7 +85,8 @@ Open Science
 Julia
 -----
 
-- [JuliaCon 2022](https://www.youtube.com/playlist?app=desktop&list=PLP8iPy9hna6TRg6qJaBLJ-FRMi9Cp7gSX)
+- [JuliaCon 2023](https://www.youtube.com/playlist?list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC)
+- [JuliaCon 2022](https://www.youtube.com/playlist?list=PLP8iPy9hna6TRg6qJaBLJ-FRMi9Cp7gSX)
 - [JuliaCon 2021](https://www.youtube.com/playlist?list=PLP8iPy9hna6Q343_8sSq4f306VGLW4TLK)
 - [JuliaCon 2020](https://www.youtube.com/playlist?list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR)
 
@@ -111,6 +114,7 @@ R
 
 - [RStudio webinar series](https://www.rstudio.com/resources/webinars/)
 - [rstudio::global 2021](https://rstudio.com/resources/rstudioglobal-2021/)
+- [](https://www.rstudio.com/blog/talks-and-workshops-from-rstudio-conf-2022/#talk-recordings-and-materials)
 
 Python
 ------
@@ -121,6 +125,7 @@ Python
 
 ### PyCon
 
+- [PyCon 2023](https://www.youtube.com/watch?v=eZwHvBsoPn4&list=PL2Uw4_HvXqvY2zhJ9AMUa_Z6dtMGF3gtb)
 - [PyCon 2022](https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl)
 - [PyCon 2021](https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYk1Y5P8kryoyd83L_0Uk5K)
 - [PyCon 2020](https://www.youtube.com/playlist?list=PL2Uw4_HvXqvbpFquYIE57BEAqkQWk-iFg)
@@ -132,6 +137,9 @@ Python
 
 #### EuroPython
 
+- [EuroPython 2023](https://www.youtube.com/playlist?list=PL8uoeex94UhFcwvAfWHybD7SfNgIUBRo-)
+- [EuroPython 2022](https://www.youtube.com/playlist?list=PL8uoeex94UhE2pLJUo9ouV0h5yRtt3CAG)
+- [EuroPython 2021](https://www.youtube.com/playlist?list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq)
 - [EuroPython 2020](https://www.youtube.com/playlist?list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW)
 - [EuroPython 2019](https://www.youtube.com/playlist?list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW)
 - [EuroPython 2018](https://www.youtube.com/watch?v=LoRq9yGeBWY&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5)
@@ -164,6 +172,11 @@ Other
 -----
 
 - [Collaborations Workshop 2021](https://www.youtube.com/playlist?list=PLpX1jXuNTXGoHfdi8EyIdnS_FmZyxu0Fu)
+
+Visualization
+-------------
+
+- [VIS2022](https://www.youtube.com/@IEEEVisualizationConference)
 
 Youtube channels of interest
 ----------------------------
